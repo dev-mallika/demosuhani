@@ -1,1 +1,2 @@
-echo This is my DevOps Practical
+echo This is my DevOps Practical 
+edited from github
